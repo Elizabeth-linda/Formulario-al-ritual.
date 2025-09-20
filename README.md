@@ -52,3 +52,37 @@ npm start
 ```
 5. **Abrir en el navegador:**
 La aplicación se abrirá automáticamente en http://localhost:3000
+
+##Validaciones Implementadas
+**Campo	Validaciones**
+**Nombre**	
+- Mínimo 5 caracteres
+- Solo letras y espacios
+- No puede estar vacío
+**Correo**
+- Formato de email válido
+- No puede estar vacío
+**Contraseña**
+- Mínimo 8 caracteres
+- Debe incluir mayúscula
+- Debe incluir número
+- Debe incluir símbolo especial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
