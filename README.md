@@ -8,7 +8,6 @@ Un formulario de registro con temática mística desarrollado en React, que perm
 - Diseño responsive 
 - Efectos visuales y tipografía especial
 - Validación de campos con mensajes de error específicos
-- Experiencia de usuario mejorada
 
 ## Tecnologías Utilizadas
 
