@@ -1,6 +1,6 @@
 # Formulario al Ritual 🔮
 
-Un formulario de registro con temática oscura/mística desarrollado en React, que permite unirse a un "Aquelarre" con validaciones completas de campos.
+Un formulario de registro con temática mística desarrollado en React, que permite unirse a un "Aquelarre" con validaciones completas de campos.
 
 ## Características
 
@@ -37,7 +37,8 @@ git clone https://github.com/tu-usuario/formulario-ritual.git](https://github.co
 2. **Navegar al directorio del proyecto:**
 
 ```bash
-cd formulario-ritual```
+cd formulario-ritual
+```
 
 3. **Instalar dependencias:**
 
@@ -49,5 +50,5 @@ npm install
 ```bash
 npm start
 ```
-5.Abrir en el navegador:
+5. **Abrir en el navegador:**
 La aplicación se abrirá automáticamente en http://localhost:3000
