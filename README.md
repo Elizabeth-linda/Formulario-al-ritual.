@@ -52,9 +52,7 @@ npm start
 5. **Abrir en el navegador:**
 La aplicación se abrirá automáticamente en http://localhost:3000
 
-##Validaciones Implementadas
-
-**Campo	Validaciones**
+## Validaciones Implementadas
 
 **Nombre**	
 
