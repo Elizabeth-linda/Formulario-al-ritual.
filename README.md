@@ -29,7 +29,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
 1. **Clonar el repositorio:**
 ```bash
-git clone https://github.com/tu-usuario/formulario-ritual.git](https://github.com/Elizabeth-linda/Formulario-al-ritual..git
+git clone https://github.com/Elizabeth-linda/Formulario-al-ritual..git
 
 ```
 
